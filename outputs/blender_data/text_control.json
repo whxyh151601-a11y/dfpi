@@ -1,0 +1,774 @@
+{
+  "global": {
+    "density_score": 1.0,
+    "height_score": 1.0,
+    "danger_score": 1.0,
+    "water_score": 1.0,
+    "total_fragments": 30,
+    "base_spacing": 8.0,
+    "base_z_scale": 3.5,
+    "base_tilt": 0.5
+  },
+  "per_level": [
+    {
+      "title": "Level 0 - \"Threshold\"",
+      "height_scale": 0.08695652173913043,
+      "tilt_angle": 0.20869565217391306,
+      "density": 1.182608695652174,
+      "water_ratio": 0.17391304347826086,
+      "text_length": 14475
+    },
+    {
+      "title": "Level 1 - \"Habitable Zone\"",
+      "height_scale": 0.07579346281383231,
+      "tilt_angle": 0.12126954050213169,
+      "density": 0.7048792041686404,
+      "water_ratio": 0.12316437707247749,
+      "text_length": 63607
+    },
+    {
+      "title": "Level 2 - \"Abandoned Utility Halls\"",
+      "height_scale": 0.03061849357011635,
+      "tilt_angle": 0.23270055113288424,
+      "density": 1.5,
+      "water_ratio": 0.015309246785058175,
+      "text_length": 40914
+    },
+    {
+      "title": "Level 3 - \"Electrical Station\"",
+      "height_scale": 0.21023125437981782,
+      "tilt_angle": 0.3363700070077085,
+      "density": 1.5,
+      "water_ratio": 0.0700770847932726,
+      "text_length": 9263
+    },
+    {
+      "title": "Level 4 - \"Abandoned Office\"",
+      "height_scale": 0.2364066193853428,
+      "tilt_angle": 0.18912529550827423,
+      "density": 1.5,
+      "water_ratio": 0.7092198581560284,
+      "text_length": 2687
+    },
+    {
+      "title": "Level 5 - \"Terror Hotel\"",
+      "height_scale": 0.08291873963515754,
+      "tilt_angle": 0.3316749585406302,
+      "density": 1.5,
+      "water_ratio": 0.24875621890547264,
+      "text_length": 7562
+    },
+    {
+      "title": "Level 6 - \"Lights Out\"",
+      "height_scale": 0.1023541453428864,
+      "tilt_angle": 0.24564994882292732,
+      "density": 1.5,
+      "water_ratio": 0.0,
+      "text_length": 5889
+    },
+    {
+      "title": "Level 7 - \"Thalassophobia\"",
+      "height_scale": 1.094224924012158,
+      "tilt_angle": 0.1458966565349544,
+      "density": 1.5,
+      "water_ratio": 0.851063829787234,
+      "text_length": 9878
+    },
+    {
+      "title": "Level 8 - \"Cave Systems\"",
+      "height_scale": 0.27350427350427353,
+      "tilt_angle": 0.14586894586894586,
+      "density": 0.5378917378917379,
+      "water_ratio": 0.20512820512820512,
+      "text_length": 52792
+    },
+    {
+      "title": "Level 9 - \"The Suburbs\"",
+      "height_scale": 0.0,
+      "tilt_angle": 0.0,
+      "density": 1.5,
+      "water_ratio": 0.1366120218579235,
+      "text_length": 4547
+    },
+    {
+      "title": "Level 10 - \"Bumper Crop\"",
+      "height_scale": 0.25756600128783,
+      "tilt_angle": 0.0,
+      "density": 1.5,
+      "water_ratio": 0.38634900193174504,
+      "text_length": 9572
+    },
+    {
+      "title": "Level 11 - \"The City That Never Sleeps\"",
+      "height_scale": 0.2163721601153985,
+      "tilt_angle": 0.0432744320230797,
+      "density": 1.5,
+      "water_ratio": 0.03606202668589975,
+      "text_length": 35238
+    },
+    {
+      "title": "Level 12 - \"Matrix\"",
+      "height_scale": 0.0,
+      "tilt_angle": 0.43537414965986393,
+      "density": 1.5,
+      "water_ratio": 0.0,
+      "text_length": 4586
+    },
+    {
+      "title": "Level 13 - \"The Boiling Frogs\"",
+      "height_scale": 0.06997900629811056,
+      "tilt_angle": 0.09330534173081409,
+      "density": 1.3809190576160484,
+      "water_ratio": 0.046652670865407045,
+      "text_length": 26159
+    },
+    {
+      "title": "the-lobby",
+      "height_scale": 1.1904761904761905,
+      "tilt_angle": 0.0,
+      "density": 0.0,
+      "water_ratio": 0.0,
+      "text_length": 967
+    },
+    {
+      "title": "Entity 1 - \"The Humans\"",
+      "height_scale": 0.10240655401945725,
+      "tilt_angle": 0.2048131080389145,
+      "density": 0.409626216077829,
+      "water_ratio": 0.0,
+      "text_length": 13127
+    },
+    {
+      "title": "Entity 2 - \"The Windows\"",
+      "height_scale": 0.07262164124909223,
+      "tilt_angle": 0.6,
+      "density": 0.7552650689905592,
+      "water_ratio": 0.0,
+      "text_length": 8762
+    },
+    {
+      "title": "Entity 3 - \"Smilers\"",
+      "height_scale": 0.0,
+      "tilt_angle": 0.6,
+      "density": 0.4289544235924933,
+      "water_ratio": 0.0,
+      "text_length": 2491
+    },
+    {
+      "title": "Entity 4 - \"Deathmoths\"",
+      "height_scale": 0.04835589941972921,
+      "tilt_angle": 0.5415860735009671,
+      "density": 0.1160541586073501,
+      "water_ratio": 0.09671179883945842,
+      "text_length": 14179
+    },
+    {
+      "title": "Entity 5 - \"Clump\"",
+      "height_scale": 0.12987012987012986,
+      "tilt_angle": 0.2077922077922078,
+      "density": 0.3116883116883117,
+      "water_ratio": 0.06493506493506493,
+      "text_length": 9469
+    },
+    {
+      "title": "Entity 6 - \"Dullers\"",
+      "height_scale": 0.0,
+      "tilt_angle": 0.6,
+      "density": 0.0,
+      "water_ratio": 0.27472527472527475,
+      "text_length": 2417
+    },
+    {
+      "title": "entity-7",
+      "height_scale": 1.1904761904761905,
+      "tilt_angle": 0.0,
+      "density": 0.0,
+      "water_ratio": 0.0,
+      "text_length": 967
+    },
+    {
+      "title": "Entity 8 - \"Hound\"",
+      "height_scale": 0.0,
+      "tilt_angle": 0.6,
+      "density": 0.4804804804804805,
+      "water_ratio": 0.0,
+      "text_length": 2322
+    },
+    {
+      "title": "Entity 9 - \"Facelings\"",
+      "height_scale": 0.025568908207619537,
+      "tilt_angle": 0.3681922781897213,
+      "density": 0.1431858859626694,
+      "water_ratio": 0.0,
+      "text_length": 25270
+    },
+    {
+      "title": "Entity 10 - \"Skin-Stealer\"",
+      "height_scale": 0.0,
+      "tilt_angle": 0.6,
+      "density": 0.5183585313174945,
+      "water_ratio": 0.21598272138228944,
+      "text_length": 3108
+    },
+    {
+      "title": "Level 14 - \"Paradise\"",
+      "height_scale": 0.0,
+      "tilt_angle": 0.0,
+      "density": 0.729483282674772,
+      "water_ratio": 0.1519756838905775,
+      "text_length": 3976
+    },
+    {
+      "title": "Level 15 - \"Futuristic Halls\"",
+      "height_scale": 0.048426150121065374,
+      "tilt_angle": 0.0387409200968523,
+      "density": 1.5,
+      "water_ratio": 0.14527845036319612,
+      "text_length": 12158
+    },
+    {
+      "title": "Level 16 - \"Altered Topography\"",
+      "height_scale": 0.24242424242424243,
+      "tilt_angle": 0.09696969696969697,
+      "density": 1.5,
+      "water_ratio": 0.24242424242424243,
+      "text_length": 5163
+    },
+    {
+      "title": "level-17",
+      "height_scale": 1.1904761904761905,
+      "tilt_angle": 0.0,
+      "density": 0.0,
+      "water_ratio": 0.0,
+      "text_length": 967
+    },
+    {
+      "title": "Level 18 - \"Memories\"",
+      "height_scale": 0.16393442622950818,
+      "tilt_angle": 0.26229508196721313,
+      "density": 1.5,
+      "water_ratio": 0.16393442622950818,
+      "text_length": 3851
+    },
+    {
+      "title": "Level 19 - \"Attic Floorboards\"",
+      "height_scale": 0.0,
+      "tilt_angle": 0.15455204056991065,
+      "density": 1.4489253803429123,
+      "water_ratio": 0.07244626901714561,
+      "text_length": 23454
+    },
+    {
+      "title": "Level 20 - \"Boreas Structure\"",
+      "height_scale": 0.05982650314089141,
+      "tilt_angle": 0.19144481005085254,
+      "density": 0.8375710439724798,
+      "water_ratio": 0.029913251570445706,
+      "text_length": 19031
+    },
+    {
+      "title": "Level 21 - \"Numbered Doors\"",
+      "height_scale": 0.0,
+      "tilt_angle": 0.1263823064770932,
+      "density": 1.5,
+      "water_ratio": 0.0,
+      "text_length": 4003
+    },
+    {
+      "title": "Level 22 - \"Ruins Left Behind\"",
+      "height_scale": 0.14478764478764478,
+      "tilt_angle": 0.11583011583011582,
+      "density": 1.5,
+      "water_ratio": 0.04826254826254826,
+      "text_length": 12534
+    },
+    {
+      "title": "Level 23 - \"The Petrified Garden\"",
+      "height_scale": 0.35739814152966404,
+      "tilt_angle": 0.0,
+      "density": 1.5,
+      "water_ratio": 0.9292351679771265,
+      "text_length": 8906
+    },
+    {
+      "title": "Level 24 - \"The Moon\"",
+      "height_scale": 0.1849796522382538,
+      "tilt_angle": 0.11838697743248243,
+      "density": 0.5919348871624122,
+      "water_ratio": 0.25897151313355526,
+      "text_length": 18103
+    },
+    {
+      "title": "Level 25 - \"The Quarter Hub\"",
+      "height_scale": 0.08722197993894462,
+      "tilt_angle": 0.10466637592673354,
+      "density": 1.5,
+      "water_ratio": 0.17444395987788924,
+      "text_length": 14187
+    },
+    {
+      "title": "Level 26 - \"The SS Fun =)\"",
+      "height_scale": 0.07607455306200077,
+      "tilt_angle": 0.18257892734880182,
+      "density": 0.608596424496006,
+      "water_ratio": 0.11411182959300115,
+      "text_length": 16896
+    },
+    {
+      "title": "Level 27 - \"The Bunker Springs\"",
+      "height_scale": 0.1910828025477707,
+      "tilt_angle": 0.05095541401273885,
+      "density": 1.5,
+      "water_ratio": 0.7006369426751593,
+      "text_length": 8969
+    },
+    {
+      "title": "Level 28 - \"Final Virtue\"",
+      "height_scale": 0.07748934521503294,
+      "tilt_angle": 0.06199147617202635,
+      "density": 0.5889190236342503,
+      "water_ratio": 0.07748934521503294,
+      "text_length": 15636
+    },
+    {
+      "title": "Level 29 - \"Hyperian\"",
+      "height_scale": 0.38419319429198684,
+      "tilt_angle": 0.26344676180021953,
+      "density": 1.5,
+      "water_ratio": 0.054884742041712405,
+      "text_length": 11230
+    },
+    {
+      "title": "Level 30 - \"Shifted Beyond Reality\"",
+      "height_scale": 0.07587253414264036,
+      "tilt_angle": 0.48558421851289835,
+      "density": 1.5,
+      "water_ratio": 0.07587253414264036,
+      "text_length": 7755
+    },
+    {
+      "title": "Level 31 - \"Roller Rink\"",
+      "height_scale": 0.0,
+      "tilt_angle": 0.38323353293413176,
+      "density": 1.5,
+      "water_ratio": 0.11976047904191617,
+      "text_length": 4935
+    },
+    {
+      "title": "Level 32 - \"Forest of the Skeleton Queen\"",
+      "height_scale": 0.1838235294117647,
+      "tilt_angle": 0.29411764705882354,
+      "density": 0.5882352941176471,
+      "water_ratio": 0.0,
+      "text_length": 6276
+    },
+    {
+      "title": "Level 33 - \"The Infinite Mall\"",
+      "height_scale": 0.43907793633369924,
+      "tilt_angle": 0.08781558726673985,
+      "density": 1.5,
+      "water_ratio": 0.7683863885839737,
+      "text_length": 5582
+    },
+    {
+      "title": "Level 34 - \"Sewer System\"",
+      "height_scale": 0.6097560975609756,
+      "tilt_angle": 0.0,
+      "density": 1.5,
+      "water_ratio": 1.0,
+      "text_length": 2973
+    },
+    {
+      "title": "Level 35 - \"An Empty Car Park\"",
+      "height_scale": 0.0,
+      "tilt_angle": 0.4113110539845758,
+      "density": 1.5,
+      "water_ratio": 0.0,
+      "text_length": 2757
+    },
+    {
+      "title": "Level 36 - \"Timeless Airport\"",
+      "height_scale": 0.12759170653907495,
+      "tilt_angle": 0.051036682615629984,
+      "density": 0.8165869218500797,
+      "water_ratio": 0.06379585326953748,
+      "text_length": 20001
+    },
+    {
+      "title": "Level 37 - \"Sublimity\"",
+      "height_scale": 0.08658008658008658,
+      "tilt_angle": 0.2077922077922078,
+      "density": 1.5,
+      "water_ratio": 0.6926406926406926,
+      "text_length": 7626
+    },
+    {
+      "title": "Level 39 - \"Enchanted Forest\"",
+      "height_scale": 0.0,
+      "tilt_angle": 0.2064516129032258,
+      "density": 1.5,
+      "water_ratio": 0.25806451612903225,
+      "text_length": 4923
+    },
+    {
+      "title": "Level 40  - \"Roller Rockin' Pizza!\"",
+      "height_scale": 0.11607661056297155,
+      "tilt_angle": 0.1857225769007545,
+      "density": 1.5,
+      "water_ratio": 0.05803830528148578,
+      "text_length": 10310
+    },
+    {
+      "title": "Level 41 - \"The Black Lake\"",
+      "height_scale": 0.1837109614206981,
+      "tilt_angle": 0.04898958971218616,
+      "density": 1.0777709736680956,
+      "water_ratio": 0.5511328842620943,
+      "text_length": 10396
+    },
+    {
+      "title": "Level 43 - \"Water World\"",
+      "height_scale": 0.18785222291797118,
+      "tilt_angle": 0.3005635566687539,
+      "density": 1.5,
+      "water_ratio": 0.6887914840325611,
+      "text_length": 9237
+    },
+    {
+      "title": "Level 44 - \"Corroding Retail Outlet\"",
+      "height_scale": 0.22658610271903326,
+      "tilt_angle": 0.3021148036253777,
+      "density": 1.5,
+      "water_ratio": 0.0755287009063444,
+      "text_length": 8274
+    },
+    {
+      "title": "Level 45 - \"Abyss Inc.\"",
+      "height_scale": 0.0,
+      "tilt_angle": 0.31746031746031744,
+      "density": 1.5,
+      "water_ratio": 0.1984126984126984,
+      "text_length": 3373
+    },
+    {
+      "title": "Level 46 - \"Arabian Desert\"",
+      "height_scale": 0.1567398119122257,
+      "tilt_angle": 0.12539184952978055,
+      "density": 1.5,
+      "water_ratio": 0.0,
+      "text_length": 4023
+    },
+    {
+      "title": "Level 47 - \"The Adderwood\"",
+      "height_scale": 0.06863417982155114,
+      "tilt_angle": 0.0,
+      "density": 0.9883321894303363,
+      "water_ratio": 0.13726835964310227,
+      "text_length": 9109
+    },
+    {
+      "title": "Level 48 - \"The Sunset Beach\"",
+      "height_scale": 0.09337068160597572,
+      "tilt_angle": 0.22408963585434175,
+      "density": 1.5,
+      "water_ratio": 0.2801120448179272,
+      "text_length": 6612
+    },
+    {
+      "title": "Level 49 - \"The Unfilled River of Phlegethon\"",
+      "height_scale": 0.10239606799098913,
+      "tilt_angle": 0.16383370878558262,
+      "density": 0.6061847225066557,
+      "water_ratio": 0.08191685439279131,
+      "text_length": 32295
+    },
+    {
+      "title": "Level 50 - \"The Moribund Highway\"",
+      "height_scale": 0.0,
+      "tilt_angle": 0.11331444759206799,
+      "density": 1.5,
+      "water_ratio": 0.141643059490085,
+      "text_length": 4289
+    },
+    {
+      "title": "Entity 11 - \"Bursters\"",
+      "height_scale": 0.0,
+      "tilt_angle": 0.6,
+      "density": 0.20512820512820512,
+      "water_ratio": 0.0,
+      "text_length": 2610
+    },
+    {
+      "title": "Entity 12 - \"Dunks\"",
+      "height_scale": 0.05104645227156713,
+      "tilt_angle": 0.2450229709035222,
+      "density": 0.08167432363450741,
+      "water_ratio": 0.0,
+      "text_length": 12814
+    },
+    {
+      "title": "Entity 13 - \"Transporters\"",
+      "height_scale": 0.20898641588296762,
+      "tilt_angle": 0.6,
+      "density": 0.877742946708464,
+      "water_ratio": 0.10449320794148381,
+      "text_length": 11777
+    },
+    {
+      "title": "Entity 14 - \"Reviooks\"",
+      "height_scale": 0.0,
+      "tilt_angle": 0.6,
+      "density": 0.8311688311688312,
+      "water_ratio": 0.0,
+      "text_length": 2679
+    },
+    {
+      "title": "Entity 15 - \"Wretches\"",
+      "height_scale": 0.1863932898415657,
+      "tilt_angle": 0.5219012115563839,
+      "density": 0.2982292637465051,
+      "water_ratio": 0.1863932898415657,
+      "text_length": 6937
+    },
+    {
+      "title": "Entity 16 - \"Nguithr'xurh\"",
+      "height_scale": 0.4418262150220913,
+      "tilt_angle": 0.6,
+      "density": 0.47128129602356406,
+      "water_ratio": 0.0,
+      "text_length": 4364
+    },
+    {
+      "title": "Entity 17 - \"Crawlers\"",
+      "height_scale": 0.0,
+      "tilt_angle": 0.5633802816901409,
+      "density": 0.0,
+      "water_ratio": 0.35211267605633806,
+      "text_length": 3932
+    },
+    {
+      "title": "Entity 18 - \"The Beast of Level 5\"",
+      "height_scale": 0.0,
+      "tilt_angle": 0.6,
+      "density": 0.6734006734006734,
+      "water_ratio": 0.0,
+      "text_length": 3761
+    },
+    {
+      "title": "Entity 19 - \"The Disease\"",
+      "height_scale": 0.03261578604044357,
+      "tilt_angle": 0.20874103065883887,
+      "density": 0.3913894324853229,
+      "water_ratio": 0.03261578604044357,
+      "text_length": 19568
+    },
+    {
+      "title": "Entity 20 - \"Scits\"",
+      "height_scale": 0.0816326530612245,
+      "tilt_angle": 0.6,
+      "density": 0.9795918367346939,
+      "water_ratio": 0.0816326530612245,
+      "text_length": 7965
+    },
+    {
+      "title": "Entity 21 - \"Anna\"",
+      "height_scale": 0.046838407494145196,
+      "tilt_angle": 0.07494145199063232,
+      "density": 0.8618266978922717,
+      "water_ratio": 0.1405152224824356,
+      "text_length": 12609
+    },
+    {
+      "title": "Entity 22 - \"Warning Kites\"",
+      "height_scale": 0.0,
+      "tilt_angle": 0.6,
+      "density": 0.6666666666666666,
+      "water_ratio": 0.0,
+      "text_length": 3150
+    },
+    {
+      "title": "Entity 23 - \"Unapproachable Horse\"",
+      "height_scale": 0.3807106598984772,
+      "tilt_angle": 0.6,
+      "density": 0.3553299492385787,
+      "water_ratio": 0.0,
+      "text_length": 9184
+    },
+    {
+      "title": "Entity 24 - \"Death Rats\"",
+      "height_scale": 0.0,
+      "tilt_angle": 0.6,
+      "density": 0.8333333333333333,
+      "water_ratio": 0.0,
+      "text_length": 2504
+    },
+    {
+      "title": "Entity 25 - \"Plague Goblins\"",
+      "height_scale": 0.09407337723424271,
+      "tilt_angle": 0.3010348071495767,
+      "density": 0.0,
+      "water_ratio": 0.0,
+      "text_length": 6989
+    },
+    {
+      "title": "Entity 26 - \"Samantha\"",
+      "height_scale": 0.21097046413502107,
+      "tilt_angle": 0.6,
+      "density": 0.6751054852320675,
+      "water_ratio": 0.0,
+      "text_length": 3275
+    },
+    {
+      "title": "Entity 27 - \"Athenian Ducks\"",
+      "height_scale": 0.0,
+      "tilt_angle": 0.5208333333333334,
+      "density": 0.7291666666666667,
+      "water_ratio": 0.0,
+      "text_length": 4625
+    },
+    {
+      "title": "Entity 28 - \"The Spokeslady\"",
+      "height_scale": 0.05827505827505827,
+      "tilt_angle": 0.32634032634032634,
+      "density": 0.1864801864801865,
+      "water_ratio": 0.0,
+      "text_length": 9675
+    },
+    {
+      "title": "Entity 29 - \u201cBlub Cats\u201d",
+      "height_scale": 0.18564356435643564,
+      "tilt_angle": 0.39603960396039606,
+      "density": 0.1485148514851485,
+      "water_ratio": 0.12376237623762376,
+      "text_length": 9558
+    },
+    {
+      "title": "Entity 30 - \"Mother\"",
+      "height_scale": 0.2890173410404624,
+      "tilt_angle": 0.6,
+      "density": 0.4624277456647399,
+      "water_ratio": 0.0,
+      "text_length": 2519
+    },
+    {
+      "title": "Object 1 - \"Almond Water\"",
+      "height_scale": 0.12458471760797342,
+      "tilt_angle": 0.132890365448505,
+      "density": 0.4318936877076412,
+      "water_ratio": 1.0,
+      "text_length": 14490
+    },
+    {
+      "title": "Object 2 - \"Level Keys\"",
+      "height_scale": 0.0,
+      "tilt_angle": 0.0,
+      "density": 1.5,
+      "water_ratio": 0.175054704595186,
+      "text_length": 14705
+    },
+    {
+      "title": "Object 3 - \"Smiler Repellent\"",
+      "height_scale": 0.26595744680851063,
+      "tilt_angle": 0.060790273556231005,
+      "density": 0.45592705167173253,
+      "water_ratio": 0.6458966565349544,
+      "text_length": 15695
+    },
+    {
+      "title": "Object 4 - \"Deuclidator\"",
+      "height_scale": 0.13679890560875513,
+      "tilt_angle": 0.1094391244870041,
+      "density": 0.1094391244870041,
+      "water_ratio": 0.13679890560875513,
+      "text_length": 4958
+    },
+    {
+      "title": "Object 5 - \"Candy\"",
+      "height_scale": 0.06199628022318661,
+      "tilt_angle": 0.0,
+      "density": 0.09919404835709857,
+      "water_ratio": 0.0,
+      "text_length": 8935
+    },
+    {
+      "title": "Object 6 - \"The Mirror\"",
+      "height_scale": 0.032133676092544985,
+      "tilt_angle": 0.025706940874035987,
+      "density": 0.4370179948586118,
+      "water_ratio": 0.16066838046272494,
+      "text_length": 18400
+    },
+    {
+      "title": "Object 7 - \"Memory Jars\"",
+      "height_scale": 0.0,
+      "tilt_angle": 0.0,
+      "density": 0.6861063464837049,
+      "water_ratio": 0.0,
+      "text_length": 3642
+    },
+    {
+      "title": "Object 8 - \"Lamps\"",
+      "height_scale": 0.1976284584980237,
+      "tilt_angle": 0.0,
+      "density": 0.0,
+      "water_ratio": 0.0,
+      "text_length": 3363
+    },
+    {
+      "title": "Object 9 - \"Dumb Gum\"",
+      "height_scale": 0.29296875,
+      "tilt_angle": 0.0,
+      "density": 0.234375,
+      "water_ratio": 0.09765625,
+      "text_length": 6176
+    },
+    {
+      "title": "Object 10 - \"Scarecrows\"",
+      "height_scale": 0.0,
+      "tilt_angle": 0.0,
+      "density": 0.34782608695652173,
+      "water_ratio": 0.0,
+      "text_length": 2726
+    },
+    {
+      "title": "Object 11 - \"Ghost Lights\"",
+      "height_scale": 0.05537098560354374,
+      "tilt_angle": 0.3543743078626799,
+      "density": 0.17718715393133996,
+      "water_ratio": 0.0,
+      "text_length": 11281
+    },
+    {
+      "title": "Object 12 - \"Mortality Shards\"",
+      "height_scale": 0.20325203252032523,
+      "tilt_angle": 0.24390243902439024,
+      "density": 0.0813008130081301,
+      "water_ratio": 0.0,
+      "text_length": 5862
+    },
+    {
+      "title": "Object 13 - \"Office Terminals\"",
+      "height_scale": 0.13531799729364005,
+      "tilt_angle": 0.0,
+      "density": 0.7577807848443843,
+      "water_ratio": 0.0,
+      "text_length": 4508
+    },
+    {
+      "title": "Object 14 - \"Scarabacks\"",
+      "height_scale": 0.38314176245210724,
+      "tilt_angle": 0.45977011494252873,
+      "density": 0.1532567049808429,
+      "water_ratio": 0.0,
+      "text_length": 3282
+    },
+    {
+      "title": "Object 15 - \"Firesalt\"",
+      "height_scale": 0.33003300330033003,
+      "tilt_angle": 0.132013201320132,
+      "density": 0.132013201320132,
+      "water_ratio": 0.825082508250825,
+      "text_length": 4065
+    }
+  ]
+}
